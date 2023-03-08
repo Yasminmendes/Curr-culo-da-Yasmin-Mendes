@@ -1,0 +1,32 @@
+   <title>currículo da Yasmin/title>
+</head>
+
+<body>
+   <h1>Cabeçalho 1</h1>
+   <h2>Cabeçalho 2</h2>
+   <h3>Cabeçalho 3</h3>
+   <h4>Cabeçalho 4</h4>
+
+
+   Nome:  <font"color="blue"><b>YASMIN MENDES <i>MORAIS</i></b></font
+   E-mail: <i>yasmincaciano37@gmail.com </i><br>
+   Prontuário:  CB3024318 <br><br>
+
+   <hr>
+
+   Hobbies: <br>
+   <ul>
+   <li>Desenhar</li>
+   <li>Cozinhar</li>
+   <li>Cantar</li>
+   <li>Músicas</li>
+   </ul>
+ 
+   Pratos preferidos:<br>
+   <ol>
+   <li>Camarão</li>
+   <li>Lula empanada</li>
+   <li>Nhoque</li>
+   <li>Lasanha
+    
+    </body>
